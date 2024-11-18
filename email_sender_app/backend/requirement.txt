@@ -1,0 +1,15 @@
+fastapi==0.103.1
+uvicorn==0.23.2
+pandas==2.1.1
+redis==5.0.1
+python-multipart==0.0.6
+sendgrid==6.10.0
+groq==0.3.0
+google-auth==2.23.0
+google-auth-oauthlib==1.1.0
+google-api-python-client==2.111.0
+schedule==1.2.0
+python-dotenv==1.0.0
+google-auth-oauthlib==1.1.0
+google-auth-httplib2==0.1.0
+google-api-python-client==2.111.0

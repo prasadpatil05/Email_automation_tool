@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+.env
+
+# Logs
+*.log
+
+# Node.js
+node_modules/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Miscellaneous
+*.DS_Store
+*.db
+*.sqlite3
+*.egg
+*.egg-info
+*.coverage
+*.cover
+*.pytest_cache/
+*.mypy_cache/
+*.pylint.d/
+*.tox/
+*.coverage.*
+*.hypothesis/
+*.pytest_cache/
+*.mypy_cache/
+*.pytype/
+*.pylint.d/
+*.coverage
+*.coverage.*
+*.hypothesis/
+*.pytest_cache/
+*.mypy_cache/
+*.pytype/
+*.pylint.d/
